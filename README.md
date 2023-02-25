@@ -1,2 +1,2 @@
-# Control_Three_Link_Walker
+# Control Three-Link Walker
 Implementing walking controller for a three-link walker.
